@@ -6,10 +6,23 @@
 
 <!-- Use it like any other HTML element -->
 <model-viewer
-  alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum"
+  style="width: 500px; height: 500px"
   src="scene.glb"
   ar
-  shadow-intensity="1"
+  ar-modes="webxr scene-viewer quick-look"
   camera-controls
-  touch-action="pan-y"
-></model-viewer>
+  poster="poster.webp"
+  shadow-intensity="2"
+  exposure="2"
+>
+  <div
+    class="Hotspot"
+    slot="hotspot-1"
+    data-position="36.83527251673655m -39m 30.45299944401347m"
+    data-normal="0m 1m 0m"
+    data-visibility-attribute="visible"
+    class="HotspotAnnotation"
+  >
+    Manprotect
+  </div>
+</model-viewer>
