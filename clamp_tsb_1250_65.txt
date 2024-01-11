@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-22052020-056460";"";
+"REFERENCE";"TSB 1250/65";"";
+"TraceParts.PartTitle";"TSB Non-marking friction plate clamps";"";
+"TraceParts.InstanceId";"33-22052020-056460CYYQIU5N7Z3KWNUBOCBUJPFKL";"";
+"SUPPLIER";"Camlok Lifting Clamps";"";
+"DESIGN";"Non-marking friction plate clamp TSB 1250/65";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.8";"";

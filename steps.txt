@@ -1,0 +1,5 @@
+load on old three js version
+https://raw.githack.com/mrdoob/three.js/r98/editor/index.html
+
+export as glb version then use this to show it
+https://modelviewer.dev/editor/
