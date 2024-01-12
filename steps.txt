@@ -7,3 +7,6 @@ https://modelviewer.dev/editor/
 there is this with step file then convert to glb
 https://imagetostl.com/convert/file/step/to/glb
 https://grabcad.com/library/chain-slings-1
+
+angular test
+https://stackblitz.com/edit/angular-testing-model-viewer?file=src%2Fapp%2Fapp.component.ts
